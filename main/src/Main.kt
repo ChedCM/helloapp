@@ -12,3 +12,7 @@ fun main() {
         println("i = $i")
     }
 }
+
+fun HelloWhite() {
+    println("Hello White")
+}
