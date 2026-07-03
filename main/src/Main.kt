@@ -13,6 +13,10 @@ fun main() {
     }
 }
 
-fun HelloWhite() {
+fun greetWhite() {
     println("Hello White")
+}
+
+fun greetBlack() {
+    println("Hello Black")
 }
